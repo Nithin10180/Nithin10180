@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning projects and Python-based applications.<br>👯 I’m looking to collaborate on open-source ML projects and innovative software development ideas.<br>🤝 I’m looking for help with deep learning, model optimization, and deployment strategies.<br>🌱 I’m currently learning ML algorithms , Data structure and algorithms.<br>💬 Ask me about Python, ML frameworks, and DSA.<br>⚡ Fun fact I enjoy automating repetitive tasks just for fun!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Nithin10180&color=blue)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/stuart_nithin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kedin.com/in/nithin-t-a18046253/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20704467/nithin-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithinroyal2004@gmail.com) 
