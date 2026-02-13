@@ -2,7 +2,7 @@
 🔭 I’m currently working on Machine Learning projects and Python-based applications.<br>👯 I’m looking to collaborate on open-source ML projects and innovative software development ideas.<br>🤝 I’m looking for help with deep learning, model optimization, and deployment strategies.<br>🌱 I’m currently learning ML algorithms , Data structure and algorithms.<br>💬 Ask me about Python, ML frameworks, and DSA.<br>⚡ Fun fact I enjoy automating repetitive tasks just for fun!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nithin10180&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Nithin10180&label=Visitors&color=brightgreen&style=for-the-badge" />
 </p>
 
 
