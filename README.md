@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LvtxIRg1Ly96E/giphy.gif" width="50%">
+  <img src="https://media.giphy.com/media/LvtxIRg1Ly96E/giphy.gif" width="75%">
 </p>
 
 # 💫 About Me:
