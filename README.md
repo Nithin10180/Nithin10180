@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="luffys-resolve-under-the-night-sky.1920x1080-ezgif.com-video-to-gif-converter.gif" width="100%">
+  <img src="https://media.giphy.com/media/LvtxIRg1Ly96E/giphy.gif" width="100%">
 </p>
 
 # 💫 About Me:
