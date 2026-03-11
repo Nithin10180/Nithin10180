@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="luffys-resolve-under-the-night-sky.1920x1080-ezgif.com-video-to-gif-converter.gif" width="100%">
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning projects and Python-based applications.<br>👯 I’m looking to collaborate on open-source ML projects and innovative software development ideas.<br>🤝 I’m looking for help with deep learning, model optimization, and deployment strategies.<br>🌱 I’m currently learning ML algorithms , Data structure and algorithms.<br>💬 Ask me about Python, ML frameworks, and DSA.<br>⚡ Fun fact I enjoy automating repetitive tasks just for fun!
 
