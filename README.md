@@ -28,4 +28,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nithin10180&icon=9&color=3)](https://visitcount.itsvg.in)
 
+
+## 📈 GitHub Activity Graph
+
+[![Nithin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithin10180&theme=github-compact&area=true&hide_border=true)](https://github.com/Nithin10180)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
